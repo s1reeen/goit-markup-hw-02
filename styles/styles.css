@@ -1,0 +1,24 @@
+:root {
+    --brand-color: #2196F3; 
+    --secondary-color: #000;
+
+}
+
+* {
+    list-style: none;
+}
+
+/*Header*/
+
+.main-logo {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0.78px;
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+.main-logo-blues {
+    color: var(--brand-color);
+}
